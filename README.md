@@ -1,6 +1,4 @@
 ### Hi there 👋
-## Esta son dos numerales
-# Esta es un numeral
 
 <!--
 **atgDesarrolloVisual/atgDesarrolloVisual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
